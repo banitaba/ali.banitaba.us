@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ali.banitaba.us/sitemap.xml
